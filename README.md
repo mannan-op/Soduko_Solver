@@ -18,10 +18,6 @@ It can solve Sudoku boards of varying difficulty (Easy → Very Hard) and report
 - The solved board
 - Number of times the `BACKTRACK` function was called
 - Number of times the `BACKTRACK` function returned failure
-
-**GitHub Link (required by assignment):**  
-[https://github.com/YOUR_USERNAME/ai2002-assignment4-q3](https://github.com/YOUR_USERNAME/ai2002-assignment4-q3) ← **Replace with your actual repo URL**
-
 ---
 
 ##  Repository Structure
